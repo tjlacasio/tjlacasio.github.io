@@ -42,25 +42,25 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": ,
+      "position": ,
+      "website": ,
+      "startDate": ,
+      "endDate": ,
+      "summary": ,
       "highlights": [
-        ""
+        
       ]
     },
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": ,
+      "position": ,
+      "website": ,
+      "startDate": ,
+      "endDate": ,
+      "summary": ,
       "highlights": [
-        ""
+        
       ]
     }
   ],
@@ -73,18 +73,18 @@
       "endDate": "Present",
       "summary": "Dedicated to restoring, protecting, and enhancing the natural resources of Hawai'i",
       "highlights": [
-        ""
+        
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": ,
+      "website": ,
+      "position": ,
+      "startDate": ,
+      "endDate": ,
+      "summary": ,
       "highlights": [
-        ""
+        
       ]
     }
   ],
@@ -96,10 +96,10 @@
       "summary": "The Hualalai 'Ohana Scholars award is a competitive scholarship designed for first generation college students who plan to attend a college or university here in Hawai'i."
     },
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": ,
+      "date": ,
+      "awarder": ,
+      "summary": 
     }
   ],
   "references": [
