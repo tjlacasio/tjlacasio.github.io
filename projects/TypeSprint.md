@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: TypeScript_logo.png
+image: img/TypeScript_logo.png
 title: "TypeSprint"
 date: 2025
 published: true
