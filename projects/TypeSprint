@@ -1,0 +1,21 @@
+---
+layout: project
+type: project
+image: img/cotton/cotton-square.png
+title: "TypeSprint"
+date: 2025
+published: true
+labels:
+  - typescript
+  - GitHub
+summary: "A fast and minimal typing test app built with TypeScript, React, Vite, and Tailwind CSS that generates random words and records completion time, WPM, accuracy, and errors."
+---
+
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
+TypeSprint is a simple typing test game which tests accuracy and speed in real time. Created using TypeScript and React, it creates a random word sequence, b
+egins timing when you press the first key, and ends when you finish the prompt. When you're done, the app shows your accuracy, error count, words per minute (WPM), and elapsed time.
+
+Tailwind CSS is used to style the project for a clear, responsive interface, while Vite is used to scaffold it for quick builds and development. Features including a programmable word count, restart capabilities, and real-time character-by-character feedback are all included in TypeSprint. It is simple to set up on GitHub Pages and provides a useful illustration of how to create contemporary web applications using TypeScript and React.
+
+Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
