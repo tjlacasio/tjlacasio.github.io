@@ -10,7 +10,7 @@ labels:
   - software enginerring
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/emoticon.webp">
 
 
 I enjoy creating  things from scratch, which is why I find software programming appealing. The majority of my current knowledge is derived from class projects, short scripts, and a few programs in Java, JavaScript, and C. I enjoy it when a bug is finally understandable and can be fixed with a simple one-line modification. That sensation makes me curious in the "why" of the code rather than just replicating its patterns.
