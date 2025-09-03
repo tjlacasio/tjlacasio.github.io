@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Technical Essay?!"
+title: "Is this thing on?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
 published: true
@@ -13,7 +13,7 @@ labels:
 <img width="200px" class="rounded float-start pe-4" src="../img/emoticon.webp">
 
 
-I enjoy creating  things from scratch, which is why I find software programming appealing. The majority of my current knowledge is derived from class projects, short scripts, and a few programs in Java, JavaScript, and C. I enjoy it when a bug is finally understandable and can be fixed with a simple one-line modification. That sensation makes me curious in the "why" of the code rather than just replicating its patterns.
+I enjoy creating  things from scratch, which is why I find software programming appealing. The majority of my current knowledge is derived from class projects, short scripts, and a few programs in Java, JavaScript, and C. I enjoy it when a bug is finally understandable and can be fixed with change a line or just a character. I took APCSP in highschool and really enjoyed my time there. Something lit up for me and I thought that I should go into university with this.  
 
 
 In the near future, I hope to master the fundamentals of data structures, algorithms, and program execution. In order to avoid breaking things when I refactor, I'm focusing on improving my ability to read error messages, using debuggers (VS Code for JS/TS, gdb for C), and creating brief unit tests for my code. In addition, I want to work on writing concise design notes, and effective commit messages that clearly describe my code. I'll be able to move more quickly and without guessing if I can accomplish those regularly.
