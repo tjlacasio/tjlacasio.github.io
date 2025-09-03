@@ -8,7 +8,7 @@ published: true
 labels:
   - typescript
   - GitHub
-summary: "A fast and minimal typing test app built with TypeScript, React, Vite, and Tailwind CSS that generates random words and records completion time, WPM, accuracy, and errors."
+summary: "A fast and minimal typing test app built with TypeScript, React, Vite, and Tailwind CSS that generates random words and records completion time, WPM, accuracy, and errors. *WORK IN PROGRESS*"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
