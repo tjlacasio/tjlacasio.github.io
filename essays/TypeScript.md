@@ -4,7 +4,7 @@ type: essay
 title: "TypeScript: Nah Imma Type Own Thing"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
-published: false
+published: true
 labels:
   - Software Engineering
   - TypeScirpt
