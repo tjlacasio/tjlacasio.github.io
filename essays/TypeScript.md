@@ -21,7 +21,7 @@ With my experience in JavaScript, Java, and C, TypeScript was both familiar and 
 Compared to the other languages I know, Typescripts borrow a good part from each. From Java, it gives me types and clearer contracts without forcing everything into classes. From JavaScript, it's a superset, so it shares many commonalities. From C, I saw that static typing and type annotations were also present in TypeScript. 
 
 
-## I'm an athlete, get me to the Olpympics 
+## I'm an athlete, get me to the Olympics 
 
 The first time I heard 'WOD', I spent a good deal of time thinking about what that meant, until it clicked in my head that we would be practicing with a workout of the day. The implementation of athletic software engineering is beneficial, even though it raises my heart rate, and the timer doesn't help out too. But that's how it should be; it exposes my weak spots and helps me pace myself to become a better software engineer. Working through some of the WODs and practicing through athletic software engineering will help me in the long run and make me comfortable with coding under pressure.
 
