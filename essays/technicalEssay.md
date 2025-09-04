@@ -4,7 +4,7 @@ type: essay
 title: "Is this thing on?"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-03
-published: true
+published: false
 labels:
   - typescript
   - software enginerring
