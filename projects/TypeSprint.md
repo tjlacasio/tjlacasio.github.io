@@ -4,7 +4,7 @@ type: project
 image: img/TypeScript_logo.png
 title: "TypeSprint"
 date: 2025
-published: true
+published: false
 labels:
   - typescript
   - GitHub
