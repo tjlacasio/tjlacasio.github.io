@@ -7,7 +7,7 @@ date: 2025-09-03
 published: true
 labels:
   - Software Engineering
-  - TypeScirpt
+  - TypeScript
 
 ---
 
