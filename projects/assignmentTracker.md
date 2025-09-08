@@ -12,7 +12,7 @@ summary: "I developed a spreadsheet that tracks an assignment/project's due date
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/assignmentTrack.png" >
+  <img width="700px" src="../img/assignmentTrack.png" >
 </div>
 
 In 2024, I was taking classes where many things were due at once. I created this tracker as a way to not lose track of upcoming assignments across different classes. Many existing task management apps felt too complex or cluttered. The tracker makes it easy to input assignments, due dates, statuses, and priorities, and then view everything in a clear, sortable, and filterable way. 
