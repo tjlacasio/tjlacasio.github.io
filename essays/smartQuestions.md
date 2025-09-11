@@ -21,7 +21,7 @@ Here I’ll  compare one "smart" and one "not-so-smart" Stack Overflow question 
 
 They restrict the area in which to look for answerers by providing a reproducible example, transparent diagnostics, and a transparent question. They create reusable knowledge by using transparent titles and citations so answers may be found and reused. These are the very requirements.Raymond/Moen look for in an intelligent question.
 
-##A smart question (C++): when a longer implicit-conversion chain succeeds but its subchain fails 
+## A smart question (C++): when a longer implicit-conversion chain succeeds but its subchain fails 
 <https://stackoverflow.com/questions/79756463/how-can-a-longer-c-implicit-conversion-chain-succeed-and-a-strict-subchain-of?>
 
 The user used a concrete, explanatory title that names the phenomenon (operator lookup and implicit conversions). They included context (a tribool include unexpectedly made referenceToClass != nullptr compile). Explained results on more than one compiler and asked an explicit question: "Can anyone explain what is happening?"
