@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "To be or not to be Smart Question"
+title: "Akamai Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-10
 published: true
