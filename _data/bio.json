@@ -44,7 +44,7 @@
     {
       "company": "Four Seasons Hualalai" ,
       "position": "Houseman",
-      "website": [Four Seasons Hualalai](https://www.fourseasons.com/hualalai/),
+      "website": "https://www.fourseasons.com/hualalai/",
       "startDate": "2025-05-21" ,
       "endDate": "2025-08-10",
       "summary": "Supports Guest Room Attendants and Housekeeping leadership to keep guest rooms, lanais, corridors, and service areas spotless and well-stocked, while responding to guest requests with Four Seasons’ “Golden Rule” service. Exemplify Four Seasons standards in every interaction and help create memorable guest experiences." ,
@@ -67,7 +67,7 @@
   "volunteer": [
     {
       "organization": "Kona Soil & Water Conservation District",
-      "website": [konaconservation.org](konaconservation.org),
+      "website": "konaconservation.org",
       "position": "Member",
       "startDate": "2023-03-01",
       "endDate": "Present",
