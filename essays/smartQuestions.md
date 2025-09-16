@@ -36,7 +36,7 @@ The writer comes up with a generic question title that copied a compiler message
 The community marked the post as "needs details or clarity". Questions ask for an explanation of what the code is supposed to do and why i + 2 = i matters—i.e., the community must assemble minimal context out of the asker before they can provide long-term assistance. This doesn’t fit the standard because it’s missing a vague title, few details, no small executable code, no environment, and a generic "please help."
 
 ## Comparing the two
-The first example "smart" message had context—short code, clear error, and straightforward request—so people leaped immediately to language principles and closed quickly. The other message lacked the fundamentals, so it wasn’t sorted out and was closed. One provided a clear answer others could learn from; the other did not.
+The first example of a "smart" message had context—short code, clear error, and straightforward request—so people leaped immediately to language principles and closed quickly. The other message lacked the fundamentals, so it wasn’t sorted out and was closed. One provided a clear answer others could learn from; the other did not.
 
 ## What I Learned (and Will Do Next Time):
 Give the problem a name rather than "it doesn't work."Paste the exact error and the context (compiler, flags). Include a brief sample code one can just run. Explain what I've tried up to now and what has changed and ask for the reason or the exact solution, instead of vague help.
