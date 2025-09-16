@@ -21,5 +21,5 @@ By using some of the functions and cell function liked data validation and condi
 
 Using the assignment tracker I created, I was able to be on track with all my assignments. I've done this for about 2/3 semesters for all of my current and past classes, and not once since I've created this have I missed a due date because I knew the date of the assignment/project's deadline.
 
-Here is a [template](https://docs.google.com/spreadsheets/d/1u8wPE-NOCAZwKkRIqgC2tdN8dq6mA-pcFGxB0W2jds0/edit?gid=0#gid=0)
+Here is a for [template](https://docs.google.com/spreadsheets/d/1u8wPE-NOCAZwKkRIqgC2tdN8dq6mA-pcFGxB0W2jds0/edit?gid=0#gid=0) those who want to use it!
 
