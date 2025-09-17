@@ -3,20 +3,19 @@ layout: essay
 type: essay
 title: "Is this thing on?"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-03
-published: false
+date: 2025-09-12
+published: true
 labels:
   - typescript
   - software enginerring
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/emoticon.webp">
+<img width="500px" class="rounded float-start pe-4" src="../img/emoticon.webp">
 
+  In middle school, I was did 3 years straight of computer class, not my choice, but I did enjoy learning the basics of software and hardware. Later on, when I took AP Computer Science Principles in high school, I became very interested in it. That's when something clicked for me, and I knew I wanted to pursue this interest in college. Since then, I've gained the majority of my experience through class projects, short scripts, and a few small Java, JavaScript, and C applications. Even though I'm still learning, I enjoy the process of figuring things out, particularly debugging. When I finally understand why something isn't working and the solution is as simple as changing one line of code or even a one small syntax, I feel a sense of joy but then I kick myself because it saw that simple. Those moments keep me driven because they remind me that programming is just as much about problem solving as it is about making things and making those things perform actions.
+ 
+  As my studies progress, I hope to gain a stronger foundation in the fundamentals of computer science. Data structures, algorithms, and program execution are subjects that I'm sure will be important not only in my classes, but in any future programming I do.The more I practice using debuggers like gdb or the tools in VS Code, carefully reading error messages, and testing my code in small, manageable chunks, the more comfortable I've been with everything. I want to make those habits second nature, so I can approach problems methodically rather than improvising. 
 
-I enjoy creating  things from scratch, which is why I find software programming appealing. The majority of my current knowledge is derived from class projects, short scripts, and a few programs in Java, JavaScript, and C. I enjoy it when a bug is finally understandable and can be fixed with change a line or just a character. I took APCSP in highschool and really enjoyed my time there. Something lit up for me and I thought that I should go into university with this.  
+  I'm interested in learning about new languages, frameworks, and tools that will broaden my perspective as a programmer. I want to gain experience working on larger projects where organization and collaboration are as important as writing code that works. I'm excited to eventually work with databases, APIs, and systems that connect various parts of an application. More than just the technical aspects, I want to improve my ability to think about problems in organized way, learning how to break them down and approach them in steps. I'm also hoping to inspire others from Hawaiʻi to pursue a career in tech or anything regarding computer and information sciences.
 
-
-In the near future, I hope to master the fundamentals of data structures, algorithms, and program execution. In order to avoid breaking things when I refactor, I'm focusing on improving my ability to read error messages, using debuggers (VS Code for JS/TS, gdb for C), and creating brief unit tests for my code. In addition, I want to work on writing concise design notes, and effective commit messages that clearly describe my code. I'll be able to move more quickly and without guessing if I can accomplish those regularly.
-
-
-On the product side, I want to take an organized approach to JavaScript:  TypeScript for fewer runtime surprises, and a straightforward API architecture using Node/Express. I'd like to learn how to use a relational database, write queries, and understand why an index is useful. For deployment, I don't need anything fancy yet: simply learn the fundamentals of things to come up during my career, build up a little CI workflow, and keep logs to see what's going wrong in production instead of assuming.
+  One day, I aspire to adopt the mindset of a software engineer, encompassing not just coding, but also problem-solving, collaboration, and continuous learning. I want to nurture the curiosity I had in high school and build it into something even more complete that will be useful for my future. I think that coding is both logical and creative, and the further I go, the more I plan to continue improving on that balance.
