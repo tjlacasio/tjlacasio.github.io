@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/coinflip.jpg
 title: "A Simple Coin Flip Simulator"
 date: 2025
 published: true
@@ -77,5 +77,5 @@ int main() {
 ```
 An example output of the program:
 <div class="text-center p-4">
-  <img width="800px" src="../img/program.png" >
+  <img width="1500px" src="../img/program.png" >
 </div>
