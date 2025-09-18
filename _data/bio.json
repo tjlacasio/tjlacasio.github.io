@@ -59,17 +59,17 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Kona Soil & Water Conservation District",
-      "website": "http://www.kswcd.org/",
-      "position": "Member",
-      "startDate": "2023-03-01",
-      "endDate": "Present",
-      "summary": "Dedicated to restoring, protecting, and enhancing the natural resources of Hawaiʻi",
-      "highlights": []
-    }
-  ],
+ "volunteer": [
+  {
+    "organization": "Kona Soil & Water Conservation District",
+    "website": "http://www.kswcd.org/",
+    "position": "Member",
+    "startDate": "2023-03-01",
+    "endDate": "Present",
+    "summary": "Dedicated to restoring, protecting, and enhancing the natural resources of Hawaiʻi",
+    "highlights": []
+  }
+],
   "awards": [
     {
       "title": "Hualālai ʻOhana Scholar",
