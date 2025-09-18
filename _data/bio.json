@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript, TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub" ]
+      "keywords": [ "MacOS", "Git/GitHub, Windows" ]
     }
   ],
   "education": [
@@ -47,7 +47,7 @@
       "website": "https://www.fourseasons.com/hualalai/",
       "startDate": "2025-05-21" ,
       "endDate": "2025-08-10",
-      "summary": "Supports Guest Room Attendants and Housekeeping leadership to keep guest rooms, lanais, corridors, and service areas spotless and well-stocked, while responding to guest requests with Four Seasons’ “Golden Rule” service. Exemplify Four Seasons standards in every interaction and help create memorable guest experiences." ,
+      "summary": "Supports Guest Room Attendants and Housekeeping leadership to keep guest rooms, lanais, corridors, and service areas spotless and well-stocked, while responding to guest requests with Four Seasons’ “Golden Rule” service. Exemplify Four Seasons standards in every interaction and help create memorable guest experiences." 
      [
         
       ]
@@ -101,7 +101,7 @@
       "awarder": ,
       "summary": 
     }
-  ],
+  ]
   "references": [
     {
       "name": "Available upon request"
