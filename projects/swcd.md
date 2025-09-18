@@ -12,7 +12,7 @@ labels:
 summary: "Guest speaker with KSWCD leaders & students in a 1-minute live radio spot: public awareness on soil erosion prevention, water conservation, and flood prevention in North & South Kona."
 ---
 
-<img src="{{ '/img/swcd.jpg' | relative_url }}" alt="Radio recording at KAPA FM" style="float:right; margin:0 0 1rem 1rem; max-width:340px; width:33%; height:auto;" />
+<img src="{{ '/img/swcd.jpg' | relative_url }}" alt="Radio recording at KAPA FM" style="float:right; margin:0 0 1rem 1rem; max-width:340px; width:40%; height:auto;" />
 
 ## Purpose 
 I joined KSWCD leaders and students on KAPA FM in Kailua-Kona for a one-minute PSA sharing the district’s mission—prevent soil erosion, conserve water resources, and prevent floods—and pointing listeners to practical, local actions. In under a minute, we connected those goals to Kona’s real resource issues: coastal management, flooding and erosion, community conservation awareness, recycling and waste reduction, watershed planning, and efficient water use. Our call to action was simple: take one doable step at home or in your ahupuaʻa and connect with KSWCD for help.
