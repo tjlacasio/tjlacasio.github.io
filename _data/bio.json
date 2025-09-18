@@ -7,60 +7,55 @@
     "phone": "808-345-8179",
     "website": "https://tjlacasio.github.io",
     "summary": "I'm a student studying for a B.S in Information Computer Science at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring 2027.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "US",
+      "region": "HI"
+    },
     "profiles": [
-      { "network": "github", "username": "tjlacasio", "url": "http://github.com/tjlacasio" },
-      { "network": "linkedin", "username": "tjlacasio", "url": "https://www.linkedin.com/in/tjlacasio/" },
+      { "network": "github", "username": "tjlacasio", "url": "https://github.com/tjlacasio" },
+      { "network": "linkedin", "username": "tjlacasio", "url": "https://www.linkedin.com/in/tjlacasio/" }
     ]
   },
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Data Science" },
     { "name": "Sustainability" },
-    { "name": "Gaming" },
+    { "name": "Gaming" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript, TypeScript" ]
+      "keywords": ["C", "C++", "Java", "JavaScript", "TypeScript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub, Windows" ]
+      "keywords": ["macOS", "Windows", "Git", "GitHub"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2027)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "Four Seasons Hualalai" ,
+      "company": "Four Seasons Hualalai",
       "position": "Houseman",
       "website": "https://www.fourseasons.com/hualalai/",
-      "startDate": "2025-05-21" ,
+      "startDate": "2025-05-21",
       "endDate": "2025-08-10",
-      "summary": "Supports Guest Room Attendants and Housekeeping leadership to keep guest rooms, lanais, corridors, and service areas spotless and well-stocked, while responding to guest requests with Four Seasons’ “Golden Rule” service. Exemplify Four Seasons standards in every interaction and help create memorable guest experiences." 
-     [
-        
-      ]
-    },
-    {
-      "company": ,
-      "position": ,
-      "website": ,
-      "startDate": ,
-      "endDate": ,
-      "summary": ,
+      "summary": "Supported Guest Room Attendants and Housekeeping leadership to keep guest rooms, lanais, corridors, and service areas spotless and well-stocked, while responding to guest requests with Four Seasons’ “Golden Rule” service.",
       "highlights": [
-        
+        "Maintained corridors and service areas; replenished linens and amenities.",
+        "Coordinated with housekeeping leadership during high-occupancy periods.",
+        "Responded to guest requests to ensure memorable experiences."
       ]
     }
   ],
@@ -70,41 +65,19 @@
       "website": "http://www.kswcd.org/",
       "position": "Member",
       "startDate": "2023-03-01",
-      "endDate": "Present",
-      "summary": "Dedicated to restoring, protecting, and enhancing the natural resources of Hawai'i",
-      "highlights": [
-        
-      ]
-    },
-    {
-      "organization": ,
-      "website": ,
-      "position": ,
-      "startDate": ,
-      "endDate": ,
-      "summary": ,
-      "highlights": [
-        
-      ]
+      "summary": "Dedicated to restoring, protecting, and enhancing the natural resources of Hawaiʻi",
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Hualalai Ohana Scholar",
-      "date": "2023-Present",
-      "awarder": "Hualalai Ohana Foundation",
-      "summary": "The Hualalai 'Ohana Scholars award is a competitive scholarship designed for first generation college students who plan to attend a college or university here in Hawai'i."
-    },
-    {
-      "title": ,
-      "date": ,
-      "awarder": ,
-      "summary": 
+      "title": "Hualālai ʻOhana Scholar",
+      "date": "2023",
+      "awarder": "Hualālai ʻOhana Foundation",
+      "summary": "Competitive scholarship for first-generation college students who plan to attend a college or university in Hawaiʻi."
     }
-  ]
+  ],
   "references": [
-    {
-      "name": "Available upon request"
-    }
+    { "name": "Available upon request" }
   ]
 }
