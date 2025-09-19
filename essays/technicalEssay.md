@@ -7,7 +7,7 @@ date: 2025-09-12
 published: true
 labels:
   - typescript
-  - software enginerring
+  - software engineering
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/emoticon.webp">
