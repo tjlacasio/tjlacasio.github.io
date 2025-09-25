@@ -4,7 +4,7 @@ type: essay
 title: "Akamai Questions"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-10
-published: false
+published: true
 labels:
   - Questions
   - Answers
