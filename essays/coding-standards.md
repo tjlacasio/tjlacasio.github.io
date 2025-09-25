@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Coding Standards? I Think Mine Are Pretty High"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-2024
-published: false
+date: 2025-09-24
+published: true
 labels:
   - Questions
   - Essay
