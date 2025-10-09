@@ -20,7 +20,7 @@ Bootstrap 5’s grid is an excellent example of this. When writing container > r
 
 
 <center>
-  <img width="600px" src="/img/code-framework-line-icon-vector.jpg
+  <img width="300px" src="/img/code-framework-line-icon-vector.jpg
 ">
 </center>
 
