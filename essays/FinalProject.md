@@ -11,8 +11,6 @@ labels:
 
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/emoticon.webp">
-
 ## Overview
  
  ### Problem: There are so many choices for food around the Mānoa campus, but some of the choices are either not in the budget of students and may or may not be in the taste of some UH students. It might get overwhelming for the bellies of students. 
