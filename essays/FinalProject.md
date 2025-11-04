@@ -27,8 +27,6 @@ Solution: This project made for and by UH students because of our overwhelming l
 - Tyler Jordan Acasio
 - Ethan Chiu
 
-<br>
-
 ## Approach
 
 For our mockup pages, we plan to design some things that support both regular users and admins.
@@ -52,14 +50,10 @@ Finally, each restaurant will have its own **Individual Restaurant Page**. This 
 - Price range  
 - Parking information (with a rating out of 5)  
 
-<br>
-
 ## Use case ideas 
 
 - New user goes to the landing page; creates an account; edits profile; logs in; gets served the user home page; filters based on price, food type, open hours, location, parking, etc.
 - Admin goes to the landing page; logs in; gets served the admin home page; edits restaurants, users
-
-<br>
 
 ## Beyond the basics 
 
