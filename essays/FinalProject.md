@@ -11,7 +11,7 @@ labels:
 
 ---
 
-# Overview
+## Overview
 
 Problem: There are so many choices for food around the Mānoa campus, but some of the choices are either not in the budget of students and may or may not be in the taste of some UH students. It might get overwhelming for the bellies of students. 
 
@@ -26,16 +26,37 @@ Solution: However, this project idea was made by and for UH students because of 
 - Tyler Jordan Acasio
 - Ethan Chiu
 
- # Approach
+ ## Approach
 
-For our mockup page, we were thinking that we have a landing page, user home page and a user’s ability to request a restaurant if it is not already displayed on the list with a form page to request it to be added. Then there will be an admin home page that is able to add restaurants, edit the restaurant information, and delete a restaurant if it unfortunately closes down. Next, we thought of adding a filter and search page that would show all the restaurants by default but by using a filter the user would be able to filter things. For example, the filter would have a cuisine check box, a ‘Search My Taste’ filter that would only show the cousin that the user specifies on their profile, the price range, and a ‘I’m Feeling Lucky’ button just like the Bowfolios WOD where the it would show a random restaurant.
+For our mockup pages, we plan to design several key views that support both regular users and admins.
 
-# Use case ideas 
+First, we will create a **Landing page** that briefly explains what the site does and who it is for. From here, users can log in, create an account, or browse basic information about the app. After logging in, regular users will be taken to a **User home page**, which will show recommended restaurants based on their saved tastes and budget, as well as a “Popular / Trending Restaurant” section that highlights spots other UH students are visiting and rating highly.
+
+We will also include a **Request a Restaurant** page. If a user does not see a restaurant in the main list, they can fill out a form to request that it be added. This form can include information such as restaurant name, address, type of cuisine, and approximate price range. These requests can later be reviewed and added by an admin.
+
+There will be an **Admin home page** for administrative users. From this page, admins will be able to add new restaurants, edit existing restaurant information (such as address, price range, or cuisine type), and delete restaurants if they close down or are no longer relevant. This separates normal user actions from higher-level data management.
+
+We also plan to implement a **Filter / Search page**. By default, this page will show all restaurants, but users will be able to narrow down the list using several filters:
+- Cuisine check boxes (for example: Japanese, Korean, Thai, Hawaiian, etc.)
+- A **“Search To My Taste!”** option that only shows cuisines the user has specified on their profile
+- Price ranges (for example: $10–$15, $15–$20, etc.)
+- An **“I’m Feeling Lucky”** button, similar to the Bowfolios WOD, that shows a random restaurant
+
+Finally, each restaurant will have its own **Individual Restaurant Page**. This page will show details such as:
+- Restaurant name  
+- Address  
+- Type of restaurant and type of food  
+- Price range  
+- Parking information (with a rating out of 5)  
+
+Together, these mockup pages will provide a clear structure for how users and admins interact with the system and how the app will support personalized food discovery around UH Mānoa.
+
+## Use case ideas 
 
 - New user goes to the landing page; creates an account; edits profile; logs in; gets served the user home page; filters based on price, food type, open hours, location, parking, etc.
 - Admin goes to the landing page; logs in; gets served the admin home page; edits restaurants, users</li>
 
-# Beyond the basics 
+## Beyond the basics 
 
 - Supports local, mom and pop restaurants, new restaurants, etc.
 - Gives UH students ideas for food based on their budget and taste
