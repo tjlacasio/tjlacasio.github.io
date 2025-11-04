@@ -26,7 +26,7 @@ Solution: However, this project idea was made by and for UH students because of 
 - Tyler Jordan Acasio
 - Ethan Chiu
 
- ## Approach
+## Approach
 
 For our mockup pages, we plan to design several key views that support both regular users and admins.
 
@@ -51,10 +51,12 @@ Finally, each restaurant will have its own **Individual Restaurant Page**. This 
 
 Together, these mockup pages will provide a clear structure for how users and admins interact with the system and how the app will support personalized food discovery around UH Mānoa.
 
+
 ## Use case ideas 
 
 - New user goes to the landing page; creates an account; edits profile; logs in; gets served the user home page; filters based on price, food type, open hours, location, parking, etc.
 - Admin goes to the landing page; logs in; gets served the admin home page; edits restaurants, users</li>
+
 
 ## Beyond the basics 
 
