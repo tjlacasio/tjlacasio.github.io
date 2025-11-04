@@ -18,7 +18,7 @@ Problem: There are so many choices for food around the Mānoa campus, but some o
 
 Solution: This project made for and by UH students because of our overwhelming love for food while also staying in the budget. This website is designed to suit every user’s unique palette, whether it be Hawaiian, Thai, Filipino, Mexican, and so much more. The website will be able to show the user’s current location, but will be defaulted to the location of UH Mānoa. The website will also filter individual restaurants based on the cuisine, the user’s taste, and the price range. We will also determine a popular or trending restaurant of a week.
 
-
+<br>
 ## Proposers of the project :
 
 - Charles Brown II  
