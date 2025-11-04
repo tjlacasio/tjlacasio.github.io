@@ -25,23 +25,21 @@ This project proposal was collaboratively written by:
 - Gerric Abe  
 - Tyler Jordan Acasio  
 
- ## Approach
+ ** Approach **
 
 For our mockup page, we were thinking that we have a landing page, user home page and a user’s ability to request a restaurant if it is not already displayed on the list with a form page to request it to be added. Then there will be an admin home page that is able to add restaurants, edit the restaurant information, and delete a restaurant if it unfortunately closes down. Next, we thought of adding a filter and search page that would show all the restaurants by default but by using a filter the user would be able to filter things. For example, the filter would have a cuisine check box, a ‘Search My Taste’ filter that would only show the cousin that the user specifies on their profile, the price range, and a ‘I’m Feeling Lucky’ button just like the Bowfolios WOD where the it would show a random restaurant.
 
-## Use case ideas
-<ul>
-  <li>- New user goes to the landing page; creates an account; edits profile; logs in; gets served the user home page; filters based on price, food type, open hours, location, parking, etc.</li>
-  <li>Admin goes to the landing page; logs in; gets served the admin home page; edits restaurants, users</li>
-</ul>
+** Use case ideas **
+- New user goes to the landing page; creates an account; edits profile; logs in; gets served the user home page; filters based on price, food type, open hours, location, parking, etc.</li>
+- Admin goes to the landing page; logs in; gets served the admin home page; edits restaurants, users</li>
 
-## Beyond the basics 
-<ul>
-<li>Supports local, mom and pop restaurants, new restaurants, etc.</li>
-<li>Gives UH students ideas for food based on their budget and taste</li>
-<li>Uplifts restaurants and gives them more service </li>
-<li>Allows UH students to rate food</li>
-<ul>
+** Beyond the basics **
+
+- Supports local, mom and pop restaurants, new restaurants, etc.
+- Gives UH students ideas for food based on their budget and taste
+- Uplifts restaurants and gives them more service
+- Allows UH students to rate food
+
 
 
   
