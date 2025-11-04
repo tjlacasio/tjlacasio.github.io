@@ -29,8 +29,8 @@ For our mockup page, we were thinking that we have a landing page, user home pag
 
 ## Beyond the basics 
 <ul>
-Supports local, mom and pop restaurants, new restaurants, etc.
-<li>Gives UH students ideas for food based on their budget and taste </li>
+<li>Supports local, mom and pop restaurants, new restaurants, etc.</li>
+<li>Gives UH students ideas for food based on their budget and taste</li>
 <li>Uplifts restaurants and gives them more service </li>
 <li>Allows UH students to rate food</li>
 <ul>
