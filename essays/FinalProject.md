@@ -15,10 +15,10 @@ labels:
 
 Problem: There are so many choices for food around the Mānoa campus, but some of the choices are either not in the budget of students and may or may not be in the taste of some UH students. It might get overwhelming for the bellies of students. 
 
-Solution: However, this project idea was made by and for UH students because of our overwhelming love for food while also staying in the budget. This website is designed to suit every user’s unique palette, whether it be Hawaiian, Thai, Filipino, Mexican, and so much more. The website will be able to show the user’s current location, but will be defaulted to the location of UH Mānoa. The website will also filter individual restaurants based on the cuisine, the user’s taste, and the price range. We will also determine a popular or trending restaurant of a week.
+Solution: This project made for and by UH students because of our overwhelming love for food while also staying in the budget. This website is designed to suit every user’s unique palette, whether it be Hawaiian, Thai, Filipino, Mexican, and so much more. The website will be able to show the user’s current location, but will be defaulted to the location of UH Mānoa. The website will also filter individual restaurants based on the cuisine, the user’s taste, and the price range. We will also determine a popular or trending restaurant of a week.
 
 
-## This project proposal was collaboratively written by:
+## Proposers of the project :
 
 - Charles Brown II  
 - Kate Hamada  
@@ -28,7 +28,7 @@ Solution: However, this project idea was made by and for UH students because of 
 
 ## Approach
 
-For our mockup pages, we plan to design several key views that support both regular users and admins.
+For our mockup pages, we plan to design some things that support both regular users and admins.
 
 First, we will create a **Landing page** that briefly explains what the site does and who it is for. From here, users can log in, create an account, or browse basic information about the app. After logging in, regular users will be taken to a **User home page**, which will show recommended restaurants based on their saved tastes and budget, as well as a “Popular / Trending Restaurant” section that highlights spots other UH students are visiting and rating highly.
 
@@ -49,13 +49,11 @@ Finally, each restaurant will have its own **Individual Restaurant Page**. This 
 - Price range  
 - Parking information (with a rating out of 5)  
 
-Together, these mockup pages will provide a clear structure for how users and admins interact with the system and how the app will support personalized food discovery around UH Mānoa.
-
 
 ## Use case ideas 
 
 - New user goes to the landing page; creates an account; edits profile; logs in; gets served the user home page; filters based on price, food type, open hours, location, parking, etc.
-- Admin goes to the landing page; logs in; gets served the admin home page; edits restaurants, users</li>
+- Admin goes to the landing page; logs in; gets served the admin home page; edits restaurants, users
 
 
 ## Beyond the basics 
