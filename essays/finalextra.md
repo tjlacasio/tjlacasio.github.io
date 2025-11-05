@@ -1,8 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Proposal"
+title: "Final Project Extra"
+# All dates must be YYYY-MM-DD format!
 date: 2025-11-04
+published: true
 labels:
   - Software Engineering
   - Nextjs
