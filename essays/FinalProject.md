@@ -10,7 +10,7 @@ labels:
   - Nextjs
 
 ---
-<img width="300px" class="rounded d-block mx-auto my-4" src="../img/istockphoto.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/istockphoto.jpg">
 <br>
 ## Overview
 
