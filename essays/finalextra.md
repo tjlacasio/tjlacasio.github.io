@@ -9,7 +9,7 @@ labels:
   - Software Engineering
   - Nextjs
 ---
-<img width="400px" class="rounded float-start pe-4" src="../img/kalo.png">
+<img width="400px" class="rounded d-block mx-auto my-4" src="../img/kalo.png">
 
 ## Overview
 
