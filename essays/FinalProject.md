@@ -10,8 +10,8 @@ labels:
   - Nextjs
 
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/istockphoto.jpg">
-
+<img width="300px" class="rounded d-block mx-auto my-4" src="../img/istockphoto.jpg">
+<br>
 ## Overview
 
 Problem: There are so many choices for food around the Mānoa campus, but some of the choices are either not in the budget of students and may or may not be in the taste of some UH students. It might get overwhelming for the bellies of students. 
