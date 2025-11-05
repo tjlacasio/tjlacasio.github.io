@@ -31,13 +31,8 @@ The “special sauce” is that the app uses each user’s profile and history t
 
 Local organizations and UH clubs can post opportunities and connect with volunteers who care about their cause.
 
-## Names of the proposers
-
-- Charles Brown II  
-- Kate Hamada  
-- Gerric Abe  
+## Author
 - Tyler Jordan Acasio
-- Ethan Chiuu
 
 ## Mockup page ideas
 
