@@ -11,7 +11,7 @@ labels:
   - Design Patterns
 
 ---
-<img width="300px" class="rounded float-start pe-4" src="../img/design.png">
+<img width="320px" height="auto" class="rounded float-start pe-4" src="../img/design.png">
 
 I think of design patterns as the house rules of programming. They do not tell you exactly what to build, they just give you tried and tested ways to arrange your code so it stays stable when the project grows. In more formal terms, design patterns are reusable solutions to common design problems in software. They give names and structure to ideas many developers have discovered on their own, like separating data from the user interface, sharing layouts between pages, or managing one shared resource instead of creating it over and over. Using patterns keeps you from starting from scratch every time and makes it easier for other developers to understand what you were trying to do.
 
