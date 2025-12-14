@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Akamai Questions"
+title: "Copilot, Not Autopilot"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-22
 published: true
@@ -47,7 +47,7 @@ I have not used AI to answer a question in class or on Discord, partly because I
 This relates to the last section, as though I haven’t asked AI to ask or write a smart question, AI has been there to clarify or refine questions into clearer, more focused forms.
 
 
-Coding example
+### Coding example
 
 For small, isolated syntax questions, AI was one of the most efficient tools I used. For example, “Give an example of using _.filter and _.map together in Underscore to process an array of objects, and explain the output.”
 
