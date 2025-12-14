@@ -10,6 +10,11 @@ labels:
   - Essay
   - Software Engineering
 ---
+
+<center>
+  <img width="600px" src="/img/aiuse.png">
+</center>
+
 ## I. Introduction
 The use of AI has become increasingly prevalent in higher education, particularly in fields like Computer Science, including software engineering, and others. In today’s world of learning, problem-solving, and productivity, tools such as coding assistants, automated debugging systems, and massive language models are frequently supported. In many ways, AI can act as a tutor, reference, partner, or even a second set of eyes for design and documentation.
  
@@ -75,10 +80,10 @@ Other than the uses I’ve said prior, I’ve used AI to direct coding tasks, an
 ## III. Impact on Learning and Understanding:
 My learning was altered more by the use of AI in ICS 314 than by how quickly it was. My understanding and problem-solving skills improved when I used them consciously, primarily for debugging, explanations, and observation. However, I couldn't feel a little guilty for some of the reasons, and I used AI for things that I knew I could do by myself. Though AI is great and you get instant gratification when you're done, who's actually doing stuff?
 
-## IV Practical Applications:
+## IV. Practical Applications:
 Outside of ICS 314, I honestly didn’t use AI that much. Most of my AI use stayed inside the class context—WOD prep, debugging, or getting explanations—because that’s where it felt directly helpful. The main place I used AI beyond the course was in personal projects, where I was experimenting and didn’t have a team depending on me.
 
-## V Challenges and Opportunities:
+## V. Challenges and Opportunities:
 
 The largest issue I encountered with AI in this course was that it can be blatantly incorrect in ways that are difficult to recognize when you're rushing or exhausted. Sometimes it would provide an answer that seemed right, but it didn't match our precise stack, the library's current version, or the ICS 314 requirements, such as ESLint. I also observed how simple it is to get a false sense of advancement: if AI provides you with a neat-looking solution, you may believe you understand it when, in reality, you have simply copied something that appears to work. 
 
@@ -87,13 +92,13 @@ Additionally, I believe it would be beneficial if the course promoted AI in area
 ## VI Comparative Analysis:
 In ICS 314, traditional teaching methods, such as in-class WODs and practice under time constraints, forced me to trust my gut. It made clear what I truly understood and what I still needed to practice. Because AI-enhanced learning allowed me to receive explanations when needed, or troubleshoot without losing momentum. Retention was the primary trade-off. Things were completed more quickly when I fully understood what was happening while looking at the modules or readings, and then using AI to clarify stuff.
 
-## VII Future Considerations:
+## VII. Future Considerations:
 
 I believe that AI will always be a part of software engineering education. The real question is how to use it without letting it take away from the parts of learning that are most important. As applications get better, they will probably be able to understand bigger codebases and suggest fixes or tests that are in line with the style of a project; however, the risks aren’t going away either, as there may be over-reliance, privacy concerns, and more.
 
 For me, the future role of AI in classes like ICS 314 should focus on helping students learn and improve, while also ensuring students can explain, reason, and code independently when it matters.
 
-## VIII Conclusion:
+## VIII. Conclusion:
 
 Using AI in ICS 314 did not replace learning for me, but it did alter how I learned. At its best, it helped me overcome confusion and understand why things behaved the way they did. At worst, it may tempt me to accept an answer too quickly, mistaking a working solution for comprehending a subject. The main takeaway from this is that software engineering is still about responsibility. Even if AI helps you write code or explain an error, you are responsible for ensuring that the solution is correct, readable, and maintainable.
 
