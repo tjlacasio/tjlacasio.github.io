@@ -3,43 +3,102 @@ layout: essay
 type: essay
 title: "Akamai Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2025-09-10
-published: false
+date: 2025-12-22
+published: true
 labels:
   - AI
   - Essay
-  - StackOverflow
+  - Software Engineering
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/askQuestion.jpg">
 
-As we set out to be software engineers, asking questions is a big part of the work. Eric S. Raymond and Rick Moen's "How To Ask Questions The Smart Way" gives us a template for requesting help such as doing your homework, being concise, providing evidence, and asking a precise question.
+## I. Introduction
+The use of AI has become increasingly prevalent in higher education, particularly in fields like Computer Science, including software engineering, and others. In today’s world of learning, problem-solving, and productivity, tools such as coding assistants, automated debugging systems, and massive language models are frequently supported. In many ways, AI can act as a tutor, reference, partner, or even a second set of eyes for design and documentation.
+ 
+## II. Personal Experience with AI
 
-Here I’ll  compare one "smart" and one "not-so-smart" Stack Overflow question from the past few days, characterize each questioner's conduct, and explain how the community's responses reflect the quality of the question.
+### Experience WODs
 
-## Why smart questions are important
+I usually tried to finish the WOD's on my own initially for Experience WODs. But rather than using AI as a solution generator, I utilized it as a clarification tool when I was absolutely stuck or unclear about expectations. However, there are times when I'm ultimately stuck and need AI to generate code for me. Though I have used AI many times, there wasn't really a benefit from it. I refrained from requesting the whole code in order to continue practicing under a limited time; however, ChatGPT was helpful in clarifying what the WOD was testing. However, using applications such as ChatGPT, Google Gemini, and GitHub Copilot lessened the fear and confusion before beginning.
 
-They restrict the area in which to look for answerers by providing a reproducible example, transparent diagnostics, and a transparent question. They create reusable knowledge by using transparent titles and citations so answers may be found and reused. These are the very requirements.Raymond/Moen look for in an intelligent question.
+# In Class Practice WODS
 
-## [A smart question (C++): when a longer implicit-conversion chain succeeds but its subchain fails](https://stackoverflow.com/questions/79756463/how-can-a-longer-c-implicit-conversion-chain-succeed-and-a-strict-subchain-of?)
+For practice WODs, I sometimes used AI to after class to review, especially the ones I struggled with and then trying the practice WOD on my own time without using AI.
 
-The user used a concrete, explanatory title that names the phenomenon (operator lookup and implicit conversions). They included context (a tribool include unexpectedly made referenceToClass != nullptr compile). Explained results on more than one compiler and asked an explicit question: "Can anyone explain what is happening?"
+### In Class WODs:
+There have been quite a few times when I have used AI,  like getting a good layout of what I should be doing first, keeping in mind, and also fixing with debugging when I’m almost there. Also, sometimes using it to give me a boost when I’m stuck and don’t know what I should be doing 
 
-The Stack Overflow community responded to the user by explaining C++ overload-resolution rules, for example., why a class type operand forms different candidate sets than an enum in isolation, citing standard text. The thread is short, to the point, and conclusive because of the prompt.
+### Essays
+My use of AI when writing essays has been pretty rare; most of the time, I like to write what comes to my head, and I’m of the opinion that you should have AI write essays for you when you are absolutely capable of doing so. But the rare times I did use AI for an essay were for organization and tone rather than the content I wrote about.
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
+### Final project
+In the RIBows final project, AI played a supportive role in debugging, UI, back-end, and documentation. I did use GitHub Copilot, which would autocomplete some code that I was going to use. I also used ChatGPT mainly for debugging and other purposes, such as asking AI what would be next after the issue.
 
-## [A not-so-smart question (C++): “Error: lvalue required…” with little context](https://stackoverflow.com/questions/79597020/error-lvalue-required-as-left-operand-of-assignment)
 
-The writer comes up with a generic question title that copied a compiler message but no purpose or intention behind it. A code snippet where there is a clear typo in the for loop, for (int i = 0; i <= n; i + 2 = i), and the ask "I am new to C++ and this community, so please help…". There are no build settings, no comparison of expected vs. actual behavior aside from the error message, and no indication of what was attempted.
+### Learning a concept / tutorial
 
-The community marked the post as "needs details or clarity". Questions ask for an explanation of what the code is supposed to do and why i + 2 = i matters—i.e., the community must assemble minimal context out of the asker before they can provide long-term assistance. This doesn’t fit the standard because it’s missing a vague title, few details, no small executable code, no environment, and a generic "please help."
+AI was extremely useful when learning new concepts such as design patterns, Next.js app structure, or Prisma schemas. Most of the time, I used Google, YouTube, Stack Overflow, and sometimes ChatGPT for things that I needed more help with, usually ones where I’m unfamiliar.
 
-## Comparing the two
-The first example of a "smart" message had context—short code, clear error, and straightforward request—so people leaped immediately to language principles and closed quickly. The other message lacked the fundamentals, so it wasn’t sorted out and was closed. One provided a clear answer others could learn from; the other did not.
 
-## What I Learned (and Will Do Next Time):
-Give the problem a name rather than "it doesn't work."Paste the exact error and the context (compiler, flags). Include a brief sample code one can just run. Explain what I've tried up to now and what has changed and ask for the reason or the exact solution, instead of vague help.
+### Answering a question in class or in Discord
 
-## Conclusion
-Smart questions make help faster and better, and they leave a trace for somebody that might be struggling with the same thing. I’ll make sure to keep in mind the right way to ask a smart question, so people can answer quickly without guessing what I meant.
+I have not used AI to answer a question in class or on Discord, partly because I knew someone would have a better way of answering the question.
+
+### Asking or answering a smart-question
+
+This relates to the last section, as though I haven’t asked AI to ask or write a smart question, AI has been there to clarify or refine questions into clearer, more focused forms.
+
+
+Coding example
+
+For small, isolated syntax questions, AI was one of the most efficient tools I used. For example, “Give an example of using _.filter and _.map together in Underscore to process an array of objects, and explain the output.”
+
+
+
+### Explaining code
+
+I have found that AI was especially helpful when reviewing code I had written earlier or code written by teammates. Though I do enjoy looking at what each set of lines does for the program, I sometimes like to have AI clarify what I’m looking at before I change or mess up stuff, and know what to do when implementing something. 
+
+
+### Documenting code
+
+I avoided using AI to write entire solutions, but I did use it to generate starting points or small snippets. But there have been times when I did have to have AI generate large pieces of code for me.
+
+
+### Quality assurance
+
+I have used AI for debugging or ESLint errors, such as using GitHub Copilot to fix a problem or copy-pasting my code into ChatGPT to find a better answer.
+
+
+### Other uses in ICS 314 are not listed
+
+Other than the uses I’ve said prior, I’ve used AI to direct coding tasks, and rarely for design and decision-making.
+
+## III. Impact on Learning and Understanding:
+My learning was altered more by the use of AI in ICS 314 than by how quickly it was. My understanding and problem-solving skills improved when I used them consciously, primarily for debugging, explanations, and observation. However, I couldn't feel a little guilty for some of the reasons, and I used AI for things that I knew I could do by myself. Though AI is great and you get instant gratification when you're done, who's actually doing stuff?
+
+## IV Practical Applications:
+Outside of ICS 314, I honestly didn’t use AI that much. Most of my AI use stayed inside the class context—WOD prep, debugging, or getting explanations—because that’s where it felt directly helpful. The main place I used AI beyond the course was in personal projects, where I was experimenting and didn’t have a team depending on me.
+
+## V Challenges and Opportunities:
+
+The largest issue I encountered with AI in this course was that it can be blatantly incorrect in ways that are difficult to recognize when you're rushing or exhausted. Sometimes it would provide an answer that seemed right, but it didn't match our precise stack, the library's current version, or the ICS 314 requirements, such as ESLint. I also observed how simple it is to get a false sense of advancement: if AI provides you with a neat-looking solution, you may believe you understand it when, in reality, you have simply copied something that appears to work. 
+
+Additionally, I believe it would be beneficial if the course promoted AI in areas that are not detrimental to core learning, such as creating test ideas, assisting with the explanation of error messages, or enhancing documentation, while maintaining assessments like in-class WODs that concentrate on what students can accomplish independently.
+
+## VI Comparative Analysis:
+In ICS 314, traditional teaching methods, such as in-class WODs and practice under time constraints, forced me to trust my gut. It made clear what I truly understood and what I still needed to practice. Because AI-enhanced learning allowed me to receive explanations when needed, or troubleshoot without losing momentum. Retention was the primary trade-off. Things were completed more quickly when I fully understood what was happening while looking at the modules or readings, and then using AI to clarify stuff.
+
+## VII Future Considerations:
+
+I believe that AI will always be a part of software engineering education. The real question is how to use it without letting it take away from the parts of learning that are most important. As applications get better, they will probably be able to understand bigger codebases and suggest fixes or tests that are in line with the style of a project; however, the risks aren’t going away either, as there may be over-reliance, privacy concerns, and more.
+
+For me, the future role of AI in classes like ICS 314 should focus on helping students learn and improve, while also ensuring students can explain, reason, and code independently when it matters.
+
+## VIII Conclusion:
+
+Using AI in ICS 314 did not replace learning for me, but it did alter how I learned. At its best, it helped me overcome confusion and understand why things behaved the way they did. At worst, it may tempt me to accept an answer too quickly, mistaking a working solution for comprehending a subject. The main takeaway from this is that software engineering is still about responsibility. Even if AI helps you write code or explain an error, you are responsible for ensuring that the solution is correct, readable, and maintainable.
+
+If I had to make a recommendation for how to improve AI use, I'd say keep in-class WODs with the use of AI. I think that you shouldn't be dependent on AI to give you every answer, but learn from AI and encourage thoughtful AI use for learning and improvement outside of those assessments. If students are taught to verify, reflect, and be transparent, it can be a valuable tool without diminishing the core goal of ICS 314.
+ 
