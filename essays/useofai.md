@@ -12,7 +12,7 @@ labels:
 ---
 
 <center>
-  <img width="600px" src="/img/aiuse.png">
+  <img width="600px" src="/img/aiuse.jpg">
 </center>
 
 ## I. Introduction
