@@ -10,9 +10,6 @@ labels:
   - Essay
   - Software Engineering
 ---
-
-<img width="300px" class="rounded float-start pe-4" src="../img/askQuestion.jpg">
-
 ## I. Introduction
 The use of AI has become increasingly prevalent in higher education, particularly in fields like Computer Science, including software engineering, and others. In today’s world of learning, problem-solving, and productivity, tools such as coding assistants, automated debugging systems, and massive language models are frequently supported. In many ways, AI can act as a tutor, reference, partner, or even a second set of eyes for design and documentation.
  
@@ -22,7 +19,7 @@ The use of AI has become increasingly prevalent in higher education, particularl
 
 I usually tried to finish the WOD's on my own initially for Experience WODs. But rather than using AI as a solution generator, I utilized it as a clarification tool when I was absolutely stuck or unclear about expectations. However, there are times when I'm ultimately stuck and need AI to generate code for me. Though I have used AI many times, there wasn't really a benefit from it. I refrained from requesting the whole code in order to continue practicing under a limited time; however, ChatGPT was helpful in clarifying what the WOD was testing. However, using applications such as ChatGPT, Google Gemini, and GitHub Copilot lessened the fear and confusion before beginning.
 
-# In Class Practice WODS
+### In Class Practice WODS
 
 For practice WODs, I sometimes used AI to after class to review, especially the ones I struggled with and then trying the practice WOD on my own time without using AI.
 
