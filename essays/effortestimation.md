@@ -13,7 +13,8 @@ labels:
 ## Estimating or Best Guess?
 
 <img src="/img/time.jpeg"
-     width="600"
+     width="400"
+     height="600"
      alt="time tracking chart"
      style="float:right; margin: 0 0 16px 16px;">
 
