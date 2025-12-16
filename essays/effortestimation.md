@@ -14,7 +14,7 @@ labels:
 
 <img src="/img/time.jpeg"
      width="400"
-     height="600"
+     height="800"
      alt="time tracking chart"
      style="float:right; margin: 0 0 16px 16px;">
 
