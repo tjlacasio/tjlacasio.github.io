@@ -6,7 +6,7 @@
     "email": "tjacasio@hawaii.edu",
     "phone": "808-345-8179",
     "website": "https://tjlacasio.github.io",
-    "summary": "I'm a student studying for a B.S in Information Computer Science at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring 2027.",
+    "summary": "I'm a student studying for a B.S in Information and Computer Sciences at the University of Hawaiʻi at Mānoa, focusing on web application development and software engineering best practices. I expect to graduate in Spring 2027.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -20,30 +20,50 @@
     ]
   },
   "interests": [
-    { "name": "Software Engineering" },
-    { "name": "Data Science" },
-    { "name": "Sustainability" },
+    { "name": "Software Engineering & Web Development" },
+    { "name": "Data Science & Analytics" },
+    { "name": "Sustainability " },
     { "name": "Gaming" },
-    { "name:" "Fitness"},
+    { "name": "Fitness" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "JavaScript", "TypeScript", "React", "Next.js"]
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js"
+      ]
     },
-     {
+    {
       "name": "Web & Database Technologies",
-      "keywords": ["Node.js", "Prisma","PostgreSQL","Bootstrap","React-Bootstrap"]
+      "keywords": [
+        "Node.js",
+        "Prisma",
+        "PostgreSQL",
+        "Bootstrap",
+        "React-Bootstrap"
+      ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["macOS", "Windows", "Git", "GitHub, VSCode, Eclipse"]
+      "keywords": [
+        "macOS",
+        "Windows",
+        "Git",
+        "GitHub",
+        "VS Code"
+      ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
-      "area": "Computer Science",
+      "area": "Information and Computer Sciences",
       "studyType": "B.S.",
       "startDate": "2023-08-21",
       "courses": []
@@ -56,25 +76,29 @@
       "website": "https://www.fourseasons.com/hualalai/",
       "startDate": "2025-05-21",
       "endDate": "2025-08-10",
-      "summary": "Supported Guest Room Attendants and Housekeeping leadership to keep guest rooms, lanais, corridors, and service areas spotless and well-stocked, while responding to guest requests with Four Seasons’ “Golden Rule” service.",
+      "summary": "Supported Guest Room Attendants and Housekeeping leadership to keep guest rooms, lanais, corridors, and service areas clean, stocked, and ready for guests, while providing friendly, responsive service.",
       "highlights": [
-        "Maintained corridors and service areas; replenished linens and amenities.",
-        "Coordinated with housekeeping leadership during high-occupancy periods.",
-        "Responded to guest requests to ensure memorable experiences."
+        "Assisted Guest Room Attendants with daily room preparation and reset to maintain clean and welcoming spaces.",
+        "Maintained corridors and service areas, replenishing linens and amenities to support smooth housekeeping operations.",
+        "Coordinated with housekeeping leadership during high-occupancy periods to prioritize tasks and meet time-sensitive demands.",
+        "Responded to guest requests using Four Seasons service standards to help ensure a positive and memorable stay."
       ]
     }
   ],
- "volunteer": [
-  {
-    "organization": "Kona Soil & Water Conservation District",
-    "website": "http://www.kswcd.org/",
-    "position": "Member",
-    "startDate": "2023-03-01",
-    "endDate": "Present",
-    "summary": "Dedicated to restoring, protecting, and enhancing the natural resources of Hawaiʻi",
-    "highlights": []
-  }
-],
+  "volunteer": [
+    {
+      "organization": "Kona Soil & Water Conservation District",
+      "website": "http://www.kswcd.org/",
+      "position": "Member",
+      "startDate": "2023-03-01",
+      "endDate": "Present",
+      "summary": "Dedicated to restoring, protecting, and enhancing the natural resources of Hawaiʻi.",
+      "highlights": [
+        "Participate in meetings and discussions focused on sustainable soil and water management in West Hawaiʻi.",
+        "Support conservation and outreach efforts that connect local communities to responsible land and resource use."
+      ]
+    }
+  ],
   "awards": [
     {
       "title": "Hualālai ʻOhana Scholar",
