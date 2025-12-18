@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Extra"
+title: "Reflecting on what I Learned About Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-12-07
+date: 2025-12-17
 published: true
 labels:
   - Software Engineering
