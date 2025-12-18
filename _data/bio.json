@@ -23,16 +23,21 @@
     { "name": "Software Engineering" },
     { "name": "Data Science" },
     { "name": "Sustainability" },
-    { "name": "Gaming" }
+    { "name": "Gaming" },
+    { "name:" "Fitness"},
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "JavaScript", "TypeScript"]
+      "keywords": ["C", "C++", "Java", "JavaScript", "TypeScript", "React", "Next.js"]
+    },
+     {
+      "name": "Web & Database Technologies",
+      "keywords": ["Node.js", "Prisma","PostgreSQL","Bootstrap","React-Bootstrap"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": ["macOS", "Windows", "Git", "GitHub"]
+      "keywords": ["macOS", "Windows", "Git", "GitHub, VSCode, Eclipse"]
     }
   ],
   "education": [
