@@ -37,7 +37,7 @@ I worked across both the frontend and the behavior of the app, especially on sea
 - **Styling and consistency fixes.**  
   I spent time cleaning up UI details such as button colors, hover states, and the file upload “Choose File” button. For example, I fixed cases where buttons turned pure white on hover and updated them to use the RIBows green and a lighter green hover state. I also worked on keeping the layout of cards and modals visually consistent across the app. Added the images tp the modal/pop-up card, some of the RIOs can upload an image of their RIO logos or anything that pertains to them but it will only show if there is an image uploaded by the club/RIO.
 
-- **Help Page.**
+- **Help Page.**  
   Created a user guide if users were unsure of what to do and what users can do on the app such as look at the trending RIOs currently, explore RIO through the landing page searchbar of the search page with more features to it, and bookmark and email RIOs.
 
 ## What I Learned
