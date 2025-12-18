@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ribows-landing.png
+image: img/ribow-show.png
 title: "RIBows: Finding UH Mānoa RIOs"
 date: 2025
 published: true
@@ -42,14 +42,15 @@ I worked across both the frontend and the behavior of the app, especially on sea
 
 ## What I Learned
 
-From this project, I gained experience working on a real full-stack app instead of just isolated exercises. I learned how React components, API routes, and the database connect, and how small UI changes often require understanding the data flow as well. Working with search, bookmarks, and the pop-up card for RIO details made me think more carefully about state: which component “owns” it, when it should update, and how to keep the UI in sync with what’s in the database.
+This project provided me with an actual experience working on an app . I learned how React components, API routes, and databases interact, as well as how minor UI changes frequently necessitate understanding the data flow. Working with search, bookmarks, and the pop-up card for RIO details made me look at state more carefully, including which component "owns" it, when it should update, and how to keep the user interface (UI) in sync with the database.
 
-This project also reinforced some of the software engineering ideas from class: using GitHub issues and pull requests to organize work, breaking tasks into smaller pieces, and treating UI polish as part of the product, not an afterthought. RIBows ended up as a solid example of a team taking a shared codebase and turning it into something that UH Mānoa students can actually use to find clubs and get involved on campus.
+This project also reinforced some of the software engineering concepts covered in class, such as using GitHub issues and pull requests to organize work, breaking tasks down into smaller pieces, and treating UI polish as an integral part of the product rather than an afterthought. I think RIBows is a great example of a team transforming a shared project into a something that can be useful for UH Mānoa students who want to join with RIOs and engage on campus.
 
 <div class="text-center p-4">
-  <img width="1500px" src="../img/ribows-landing.png" alt="RIBows landing page with search bar and RIO cards">
+  <img width="800px" src="../img/ribows-landing.png" alt="RIBows landing page">
 </div>
 
 <div class="text-center p-4">
-  <img width="1500px" src="../img/ribows-rio-modal.png" alt="RIBows RIO pop-up detail card with purpose and contact info">
+  <img width="800px" src="../img/ribows-rio-modal.png" alt="RIBows RIO detail modal">
 </div>
+
