@@ -4,7 +4,7 @@ type: essay
 title: "Let's Get This Program Started"
 # All dates must be YYYY-MM-DD format!
 date: 2025-09-12
-published: true
+published: false
 labels:
   - typescript
   - software engineering
