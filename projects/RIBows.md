@@ -18,7 +18,7 @@ RIBows is a web application that helps UH Mānoa students discover and keep trac
 
 The app is built as a full-stack Next.js project with React on the frontend and Prisma + PostgreSQL on the backend. Authentication uses NextAuth, and the UI is styled with React-Bootstrap plus custom CSS variables to match the RIBows color theme. The app also includes an admin interface for editing RIO information and keeping the database up to date.
 
-If you want to check out our project and see our source code to learn more about it RIBows. Here is our [GitHub Organization Page](https://github.com/RI-Bows)
+If you want to check out our project and see our source code to learn more about RIBows. Here is our [GitHub Organization Page](https://github.com/RI-Bows)
 
 ## My Contributions
 
